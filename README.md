@@ -8,7 +8,7 @@ Welcome to the **Landslide Detection Project**! This project monitors environmen
 - [✨ Introduction](#-introduction)
 - [🚀 Features](#-features)
 - [🧰 Components Required](#-components-required)
-- [🔌 Circuit Diagram](#-circuit-diagram)
+- [🔌 Block Diagram](#-circuit-diagram)
 - [⚙️ Installation](#-installation)
 - [📊 Usage](#-usage)
 - [🎥 Project Demo](#-project-demo)
@@ -44,8 +44,8 @@ A **landslide detection system** monitors parameters like soil moisture, vibrati
 
 ---
 
-## 🔌 Circuit Diagram
-![Circuit Diagram](image.png)
+## 🔌 Block Diagram
+![Block Diagram](image.png)
 
 ---
 

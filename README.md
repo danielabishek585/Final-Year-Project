@@ -51,4 +51,4 @@ A **landslide detection system** monitors parameters like soil moisture, vibrati
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/your-username/landslide-detection.git
+git clone https://github.com/danielabishek585/Final-Year-Project.git

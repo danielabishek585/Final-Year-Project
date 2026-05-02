@@ -45,7 +45,7 @@ A **landslide detection system** monitors parameters like soil moisture, vibrati
 ---
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](images/image.png)
+![Circuit Diagram](image.png)
 
 ---
 
